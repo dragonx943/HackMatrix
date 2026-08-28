@@ -1,4 +1,5 @@
-# HackMatrix
+# (ARCHIVED) HackMatrix
+https://collinalexbell.itch.io/hackmatrix
 
 
 <img src="images/header_img.png" width="800">
